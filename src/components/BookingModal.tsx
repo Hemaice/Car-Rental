@@ -28,7 +28,7 @@ export default function BookingModal({ vehicle, onClose }: BookingModalProps) {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
 
-    const phoneNumber = "919363586559";
+    const phoneNumber = "918072719424";
 
     const message = `*New Booking Request*
 
