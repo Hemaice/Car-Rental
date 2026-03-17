@@ -17,7 +17,7 @@ export default function Contact() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
 
-    const phoneNumber = "9363586559"; 
+    const phoneNumber = "8072719424"; 
 
     const message = `Hello, I have an enquiry:
 
